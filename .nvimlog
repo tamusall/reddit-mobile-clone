@@ -1,0 +1,21 @@
+INFO  2020-12-28T17:24:59.673 38517 set_init_2:754: startup runtimepath/packpath value: /Users/travis/.config/nvim,/etc/xdg/nvim,/Users/travis/.local/share/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/usr/local/share/nvim/runtime,/usr/local/lib/nvim,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/Users/travis/.local/share/nvim/site/after,/etc/xdg/nvim/after,/Users/travis/.config/nvim/after
+INFO  2020-12-28T17:24:59.910 38517 channel_create_event:204: new channel 3 (function coc#rpc#start_server[17]..<SNR>24_start:55) : {"id": 3, "client": {}, "mode": "rpc", "stream": "job"}
+INFO  2020-12-28T17:25:00.238 38517 main:559: starting main loop
+INFO  2020-12-28T17:25:11.690 38517 os_proc_tree_kill:96: sending SIGTERM to PID -38518
+INFO  2020-12-28T17:25:11.697 38517 on_process_exit:393: exited: pid=38518 status=143 stoptime=11976252821390
+INFO  2020-12-28T17:25:11.699 38517 os_exit:586: Nvim exit: 0
+INFO  2020-12-28T17:26:24.763 39015 set_init_2:754: startup runtimepath/packpath value: /Users/travis/.config/nvim,/etc/xdg/nvim,/Users/travis/.local/share/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/usr/local/share/nvim/runtime,/usr/local/lib/nvim,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/Users/travis/.local/share/nvim/site/after,/etc/xdg/nvim/after,/Users/travis/.config/nvim/after
+INFO  2020-12-28T17:26:24.889 39015 channel_create_event:204: new channel 3 (function coc#rpc#start_server[17]..<SNR>24_start:55) : {"id": 3, "client": {}, "mode": "rpc", "stream": "job"}
+INFO  2020-12-28T17:26:25.092 39015 main:559: starting main loop
+INFO  2020-12-28T17:26:26.257 39015 on_process_exit:393: exited: pid=39017 status=0 stoptime=0
+INFO  2020-12-28T17:27:07.030 39015 os_proc_tree_kill:96: sending SIGTERM to PID -39016
+INFO  2020-12-28T17:27:07.040 39015 on_process_exit:393: exited: pid=39016 status=143 stoptime=12091590097314
+INFO  2020-12-28T17:27:07.042 39015 os_exit:586: Nvim exit: 0
+INFO  2020-12-28T17:27:09.289 39071 set_init_2:754: startup runtimepath/packpath value: /Users/travis/.config/nvim,/etc/xdg/nvim,/Users/travis/.local/share/nvim/site,/usr/local/share/nvim/site,/usr/share/nvim/site,/usr/local/share/nvim/runtime,/usr/local/lib/nvim,/usr/share/nvim/site/after,/usr/local/share/nvim/site/after,/Users/travis/.local/share/nvim/site/after,/etc/xdg/nvim/after,/Users/travis/.config/nvim/after
+INFO  2020-12-28T17:27:09.410 39071 channel_create_event:204: new channel 3 (function coc#rpc#start_server[17]..<SNR>24_start:55) : {"id": 3, "client": {}, "mode": "rpc", "stream": "job"}
+INFO  2020-12-28T17:27:09.606 39071 main:559: starting main loop
+INFO  2020-12-28T17:27:13.465 39071 on_process_exit:393: exited: pid=39078 status=0 stoptime=0
+INFO  2020-12-28T17:28:44.525 39071 emsg_multiline:681: E45: 'readonly' option is set (add ! to override)
+INFO  2020-12-28T17:28:54.279 39071 os_proc_tree_kill:96: sending SIGTERM to PID -39072
+INFO  2020-12-28T17:28:54.290 39071 on_process_exit:393: exited: pid=39072 status=143 stoptime=12198835673055
+INFO  2020-12-28T17:28:54.291 39071 os_exit:586: Nvim exit: 0
